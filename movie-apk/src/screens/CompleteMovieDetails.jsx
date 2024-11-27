@@ -40,7 +40,7 @@ const CompleteMovieDetails = () => {
     MoviesVideoHandler(id);
   }, []);
 
-  console.log(movies);
+  
 
   return (
     <>
